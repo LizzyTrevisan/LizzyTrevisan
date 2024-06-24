@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LizzyTrevisan
+- 👋 Hi, I’m Lizzy Trevisan
 - 👀 I’m interested in learning more about Back-end
 - 🌱 I’m currently learning Software Development at Bow Valley Canada
 - 💞️ I’m looking to collaborate on projects to learn and gain Dev experience 
