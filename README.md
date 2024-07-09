@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate with projects to learn and gain Dev experience 
 - 📫 How to reach me here?! By email or even my LinkedIn Leiziane Trevisan Dardin
 - 😄 Pronouns: She/Hers
-- ⚡ Fun fact: Love makeup, so I am an AR Makeup, and other contents, Filters Creator for Instagram and TikTok. I even won a Meta $$ Prize in 2022 with one of my Filters. ;)
+- ⚡ Fun fact: Love makeup, so I am an AR Makeup artist and MUA.I am a Filter Creator for Instagram and TikTok. I even won a Meta $$ Prize in 2022 with one of my Filters. ;)
 
 <!---
 LizzyTrevisan/LizzyTrevisan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
