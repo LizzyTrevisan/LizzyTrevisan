@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lizzy Trevisan
-- 👀 I’m interested in learning more about Back-end
+- 👀 I’m interested in learning more about software development world.
 - 🌱 I’m currently learning Software Development at Bow Valley Canada
 - 💞️ I’m looking to collaborate with projects to learn and gain Dev experience 
 - 📫 How to reach me here?! By email or even my LinkedIn Leiziane Trevisan Dardin
