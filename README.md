@@ -81,6 +81,6 @@
 ![Snake animation](https://raw.githubusercontent.com/LizzyTrevisan/LizzyTrevisan/output/github-contribution-grid-snake-dark.svg)
 
 ##
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I genuinely enjoy connecting with new people</b> so, say "hi" nad let's contribute in a project
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I genuinely enjoy connecting with new people</b> so, say "hi" aNd let's contribute in a project
 
 
