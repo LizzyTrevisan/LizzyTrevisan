@@ -3,7 +3,7 @@
 <h3 align="center">Aspiring Full Stack Developer from Canada </h3>
 
 ❤️ I prefer C++, MySQL on backend, however, I am familiar with other Machine Languages.
-🤔 I'm currently an Intern for Prodigy InfoTech, for a month.
+🤔 I'm currently an Intern for Prodigy InfoTech.
 
 ✨ I'm studying: C# and OOP, OracleSQL, Net.Framework, and Python.
 
