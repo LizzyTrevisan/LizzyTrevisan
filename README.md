@@ -11,12 +11,13 @@
 
 ## About me:
 - 😄 Fun fact: I'm a software developer Student at Bow Valley College, Canada.
+- And I am a winner at one of the Meta contests wiht my calling video calling filter.
 - 🔭 I’m looking to collaborate on commercial projects, volunteering for startups
 - 📫 How to reach me: [Email](leiziane.trevisna@gmail.com)
 - 💬 Ask me about `Frontend` or `Backend`
 
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="500">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="500">            
 
 
 ## My stack:
@@ -29,6 +30,7 @@
 - 8 years of management
 
 
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
 
 ###
 
