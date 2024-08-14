@@ -1,8 +1,32 @@
-<h2 align="left">Hi 👋! My name is Leiziane, but you can call me Lizzy.<br><br>I'm a student in Software Development at Bow Valley Canada.<br><br>I'm looking forward collaborating with projects to show case my Dev Skills.<br><br>You can email me for further information.</h2>
+<h1 align="center">Hi, I'm  Lizzy 👋 </h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=taozhi8833998.taozhi883398&left_color=royalblue&right_color=black"  />
+<h3 align="center">Aspiring Full Stack Developer from Canada </h3>
 
-###
+❤️ I prefer C++, MySQL on backend, however, I am familiar with other Machine Languages.
+🤔 I'm currently an Inter for Prodigy InfoTeach, for a month.
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif"  />
+✨ I study: C++, C# and OOP, OracleSQL, Net.Framework, and Python.
+
+
+
+## About me:
+- 😄 Fun fact: I'm a software developer Student at Bow Valley College, Canada.
+- 🔭 I’m looking to collaborate on commercial projects, volunteering for startups
+- 📫 How to reach me: [Email](leiziane.trevisna@gmail.com)
+- 💬 Ask me about `Frontend` or `Backend`
+
+<img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
+
+## My stack:
+- 1+ years of experience in C++
+- 2+ years of experience in Meta Spark
+- Winner for one of best calling filters by Meta
+- ❤️ API will be my next achievement at college
+- HTML/CSS, Javascript - basic
+- 5+ years in leadership
+- 8 years of management
+
+
 
 ###
 
@@ -40,6 +64,6 @@
   </a>
 </div>
 
-![snake gif](https://github.com/LizzyTrevisan/LizzyTrevisan/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/{LizzyTrevisan}/{LizzyTrevisan}/output/github-contribution-grid-snake-dark.svg)
 
 
