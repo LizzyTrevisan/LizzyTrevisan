@@ -15,7 +15,9 @@
 - 📫 How to reach me: [Email](leiziane.trevisna@gmail.com)
 - 💬 Ask me about `Frontend` or `Backend`
 
-<img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="500">
+
 
 ## My stack:
 - 1+ years of experience in C++
@@ -67,9 +69,9 @@
 ## My Journey
 <div>
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=LizzyTrevisan&show_icons=true&theme=onedark">
-  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=taozhi8833998&layout=compact&theme=onedark" />
-  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=taozhi8833998&theme=github">
-  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=taozhi8833998&theme=onedark" />
+  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=LizzyTrevisan&layout=compact&theme=onedark" />
+  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=LizzyTrevisan&theme=github">
+  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=LizzyTrevisan&theme=onedark" />
 </div>
 
 ## My Rewards
@@ -79,6 +81,6 @@
 ![Snake animation](https://raw.githubusercontent.com/LizzyTrevisan/LizzyTrevisan/output/github-contribution-grid-snake-dark.svg)
 
 ##
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I genuinely enjoy connecting with new people</b> so if you'd like to say
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I genuinely enjoy connecting with new people</b> so, say "hi" nad let's contribute in a project
 
 
