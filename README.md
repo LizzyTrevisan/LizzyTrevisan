@@ -2,9 +2,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=taozhi8833998.taozhi883398&left_color=royalblue&right_color=black"  />
 <h3 align="center">Aspiring Full Stack Developer from Canada </h3>
 
-❤️ I prefer C++, MySQL on backend, however, I am familiar with other Machine Languages. I'm currently a Freelancer.
-
-✨ I'm studying: C# and OOP, OracleSQL, Net.Framework, and Python.
+❤️ Back-End: OOP familiar with Generics, SOLID Principles, Data Sctutures and Algorithms. Languages: C#, C++, SQL, LINQ, Net.Framework and Windows Forms.
+❤️ Front-End: HTML, CSS,  SAAS.
+✨ Aspiring to become a FullStack Developer.
 
 
 
