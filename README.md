@@ -3,7 +3,7 @@
 <h3 align="center">Aspiring Full Stack Developer from Canada </h3>
 
 ❤️ Back-End: OOP familiar with Generics, SOLID Principles, Data Sctutures and Algorithms. Languages: C#, C++, SQL, LINQ, Net.Framework and Windows Forms.</br>
-❤️ Front-End: HTML, CSS,  SASS.</br>
+❤️ Front-End: HTML, CSS,  SASS, Javascript.</br>
 ✨ Aspiring to become a FullStack Developer. </br>
 
 
