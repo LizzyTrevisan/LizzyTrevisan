@@ -12,7 +12,7 @@
 - Fun fact: I'm a software developer Student at Bow Valley College, Canada.
 - And I am a winner at one of the Meta contests with my calling video calling filter.
 - 🔭 I’m looking to collaborate on commercial projects, volunteering for startups
-- 📫 How to reach me: [Email](leiziane.trevisna@gmail.com)
+- 📫 How to reach me: [Email](leiziane.trevisan@gmail.com)
 - 💬 Ask me about `Frontend` or `Backend`
 
 
