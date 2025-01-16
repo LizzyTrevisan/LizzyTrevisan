@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm  Lizzy 👋 </h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=taozhi8833998.taozhi883398&left_color=royalblue&right_color=black"  />
-<h3 align="center">Aspiring Full Stack Developer from Canada </h3>
+<h3 align="center">Aspiring to be a Full-Stack Developer from Canada </h3>
 
 ❤️ Back-End: OOP familiar with Generics, SOLID Principles, Data Sctutures and Algorithms. Languages: C#, C++, SQL, LINQ, Net.Framework and Windows Forms.</br>
 ❤️ Front-End: HTML, CSS,  SASS, Javascript.</br>
