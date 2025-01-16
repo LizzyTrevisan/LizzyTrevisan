@@ -3,9 +3,9 @@
 <h3 align="center">Aspiring to be a Full-Stack Developer from Canada </h3>
 
 ❤️ Back-End: OOP familiar with Generics, SOLID Principles, Data Sctutures and Algorithms. Languages: C#, C++, SQL, LINQ, Net.Framework and Windows Forms.</br>
-❤️ Front-End: HTML, CSS,  SASS, Javascript.</br>
+❤️ Front-End: HTML, CSS,  SASS, Javascript, Json and I am learning REACt by my own at the moment.</br>
 ✨ Aspiring to become a FullStack Developer. </br>
-
+✨ At this stage of College, I am in process of learning Java, develop games by the Unreal Enmgine emulator and creating mobile apps using Adnroid Studio with Java language.
 
 
 ## About me:
@@ -24,10 +24,12 @@
 <br><br>
 
 ## My stack:
-- < 1 years of experience in C++
+- < 1 year of experience in C++
 - < 1 year of experience in C# and OOP Principles
+- Comfortabel with projects using: HTML/CSS, SCSS, and Javascript - basic
+- < 1 year of Windows forms projects
+- < 1 year of SQL
 - ❤️ API will be my next achievement at college
-- HTML/CSS, SCSS, and Javascript - basic
 - 5+ years in leadership
 - 8 years Teamwork
 - 8 years of management
