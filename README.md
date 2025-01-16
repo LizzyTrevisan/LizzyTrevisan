@@ -27,7 +27,7 @@
 - < 1 years of experience in C++
 - < 1 year of experience in C# and OOP Principles
 - ❤️ API will be my next achievement at college
-- HTML/CSS, Javascript - basic
+- HTML/CSS, SCSS, and Javascript - basic
 - 5+ years in leadership
 - 8 years Teamwork
 - 8 years of management
