@@ -24,11 +24,11 @@
 <br><br>
 
 ## My stack:
-- < 1 year of experience in C++
-- < 1 year of experience in C# and OOP Principles
+- 1 year of experience in C++
+- 1 year of experience in C# and OOP Principles
 - Comfortabel with projects using: HTML/CSS, SCSS, and Javascript - basic
-- < 1 year of Windows forms projects
-- < 1 year of SQL and LINQ
+- 1 year of Windows forms projects
+- 1 year of SQL and LINQ
 - ❤️ API will be my next achievement at college
 - 5+ years in leadership
 - 8 years Teamwork
