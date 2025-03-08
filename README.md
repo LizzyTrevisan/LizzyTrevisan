@@ -26,7 +26,7 @@
 ## My stack:
 - 1 year of experience in C++
 - 1 year of experience in C# and OOP Principles
-- Experiemced in HTML/CSS, SCSS, and Javascript - basic
+- Experienced in HTML/CSS, SCSS, and Javascript - basic
 - 1 year of Windows forms projects
 - 1 year of SQL and LINQ
 - ❤️ API will be my next achievement at college
