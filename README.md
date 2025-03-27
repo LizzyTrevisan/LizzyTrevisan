@@ -3,7 +3,7 @@
 <h3 align="center">Aspiring to be a Full-Stack Developer from Canada </h3>
 
 ❤️ Back-End: OOP familiar with Generics, SOLID Principles, Data Sctutures and Algorithms. Languages: C#, C++, SQL, LINQ, Net.Framework and Windows Forms.</br>
-❤️ Front-End: HTML, CSS,  SASS, Javascript, Json and I am learning REACt by my own at the moment.</br>
+❤️ Front-End: HTML, CSS,  SASS, Javascript, Json and I am learning REACT by my own at the moment.</br>
 ✨ Aspiring to become a FullStack Developer. </br>
 ✨ At this stage of College, I am in process of learning Java, develop games by the Unreal Engine emulator and creating mobile apps using Android Studio with Java language.
 
