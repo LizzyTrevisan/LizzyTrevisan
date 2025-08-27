@@ -26,12 +26,11 @@
 <br><br>
 
 ## My stack:
+- 1 1 year of experience in stacks: HTML, CSS, JS along with API implementation
 - 1 year of experience in C++
 - 1 year of experience in C# and OOP Principles
-- Experienced in HTML/CSS, SCSS, and Javascript - basic
 - 1 year of Windows forms projects
-- 1 year of SQL and LINQ
-- ❤️ API will be my next achievement at college
+- 1 year of SQL, NoSQL (MongoDB) and LINQ
 - 5+ years in leadership
 - 8 years Teamwork
 - 8 years of management
