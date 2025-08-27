@@ -3,7 +3,7 @@
 <h3 align="center">Aspiring to be a Full-Stack Developer from Canada </h3>
 
 ❤️ Front-End: HTML5, CSS,  SASS, Javascript Vanilla, Json, basic knowledge in Node.js, Jquery.js, and I am learning REACT, by my own.  </br>
-❤️ Front-End: Experience in UI Design using Figma and rebuilt an affiliate e-commerce website wusing WordPress(with Woocommerce Plugins and Elementor Free).</br>
+❤️ Front-End: Experience in UI Design using Figma and rebuilt an affiliate e-commerce website using WordPress(with Woocommerce Plugins and Elementor Free).</br>
 ❤️ Back-End: OOP familiar with Generics, SOLID Principles, Data Sctutures and Algorithms. Languages: C#, C++, SQL, LINQ, Net.Framework and Windows Forms.</br>
 ❤️ Tools: Visual Studio Code, Visual Studio 2022, PostMan, MongoDb Compass and Atlas, Eclipse, My SQL, Unreal Engine(C++), Git & GitHub.
 ✨ Aspiring to become a FullStack Developer. </br>
