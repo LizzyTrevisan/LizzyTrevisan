@@ -26,7 +26,7 @@
 <br><br>
 
 ## My stack:
-- 1 1 year of experience in stacks: HTML, CSS, JS along with API implementation
+- 1 year of experience in stacks: HTML, CSS, JS along with API implementation
 - 1 year of experience in C++
 - 1 year of experience in C# and OOP Principles
 - 1 year of Windows forms projects
