@@ -5,9 +5,8 @@
 ❤️ Front-End: HTML5, CSS,  SASS, Javascript Vanilla, Json, basic knowledge in Node.js, Jquery.js, REACT.js. Last experience in a project: https://github.com/TyLandry/Coworking-Group-2  </br>
 ❤️ Front-End: Experience in UI Design using Figma and rebuilt an affiliate e-commerce website using WordPress(with Woocommerce Plugins and Elementor Free).</br>
 ❤️ Back-End: OOP familiar with Generics, SOLID Principles, Data Sctutures and Algorithms. Languages: C#, C++, SQL, LINQ, Net.Framework and Windows Forms.</br>
-❤️ Tools: Visual Studio Code, Visual Studio 2022, PostMan, MongoDb Compass and Atlas, Eclipse, My SQL, Unreal Engine(C++), Git & GitHub.
+❤️ Tools: Visual Studio Code, Visual Studio 2022, Cursor, PostMan, MongoDb Compass and Atlas, Eclipse, My SQL, Unreal Engine(C++), Git & GitHub.
 ✨ Aspiring to become a FullStack Developer. </br>
-✨ At this stage of College, I am in process of learning Java, develop games by the Unreal Engine emulator and creating mobile apps using Android Studio with Java language.
 
 
 ## About me:
@@ -26,7 +25,8 @@
 <br><br>
 
 ## My stack:
-- 1 year of experience in stacks: HTML, CSS, JS along with API implementation
+- 1 year of experience in stacks: HTML, CSS, JS, React.Js along with API implementation
+- 1 Year of experience in Node.js, Express.js
 - 1 year of experience in C++
 - 1 year of experience in C# and OOP Principles
 - 1 year of Windows forms projects
