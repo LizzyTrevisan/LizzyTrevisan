@@ -24,9 +24,9 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 <br><br>
 
-## My stack:
+## My stacks:
 - 1 year of experience in stacks: HTML, CSS, JS, React.Js along with API implementation
-- 1 Year of experience in Node.js, Express.js
+- 1 Year of experience in Node.js, Express.js, JQuery
 - 1 year of experience in C++
 - 1 year of experience in C# and OOP Principles
 - 1 year of Windows forms projects
